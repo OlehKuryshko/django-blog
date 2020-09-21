@@ -1,6 +1,6 @@
 # to-do-app
 
-__Must be installed:__
+Must be installed:
 - __[docker](https://docs.docker.com/engine/install/)__
 
 Start app:
