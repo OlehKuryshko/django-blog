@@ -1,5 +1,9 @@
 # to-do-app
 
+This repository contains code for todo application.
+
+It was writen using Django 3.1
+
 Start app:
 - Install requirements
 ```bash
