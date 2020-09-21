@@ -1,4 +1,4 @@
-# to-do-app
+# app to-do
 
 Must be installed:
 - __[docker](https://docs.docker.com/engine/install/)__
