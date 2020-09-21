@@ -1,5 +1,8 @@
 # to-do-app
 
+__Must be installed:__
+- __[docker](https://docs.docker.com/engine/install/)__
+
 Start app:
 - Install requirements
 ```bash
