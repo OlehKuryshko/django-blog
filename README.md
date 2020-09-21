@@ -3,6 +3,10 @@
 Must be installed:
 - __[docker](https://docs.docker.com/engine/install/)__
 
+This repository contains code for todo application.
+
+It was writen using Django 3.1
+
 Start app:
 - Install requirements
 ```bash
